@@ -9,19 +9,21 @@ https://www.spaceappschallenge.org/2023/find-a-team/namazu/
 
 
 "Congratulations to our Global Nominees! These projects were selected by Local Event and Universal Event judges for Global Judging."
-
 spaceappschallenge citation.
-
-
 
 
 Ptoject name: PROJECT NAMAZU
 HIGH-LEVEL SUMMARY
 Astronomy is a subject that even today lacks tools to share knowledge with the public of all ages and backgrounds. With the aim of unraveling some of these mysteries in a playful and visual way, we have created a tool that helps us abstract complex concepts. It also helps us understand a bit more about the dynamics of the Apollo missions and the collection of seismic data by Apollo PSE seismographs. The project is a 3D model of the moon that can be used dynamically, where a timeline shows from the first landing in 1969 to 1977. Another approach would be to show all points at once, conveying the idea of scale ( impact ) and location of each seismic event, both shallow and deep. Operation of the system: Yellow bars: Display earthquakes and their magnitudes. There is an option that shows only the magnitude and another that shows only the depth. White bars: Display earthquake events and the depth at which they occurred.
+
+
 PROJECT DEMO
 https://www.loom.com/share/6fddafdd6b2d4cf4afb0bcae1eb5574d?sid=c88d1e4e-ee12-4ed6-a858-96807d31cead
+
 FINAL PROJECT
 http://maoe.com.br/nasa/
+
+
 PROJECT DETAILS
 Astronomy is a subject that even today lacks tools to share knowledge with the public of all ages and backgrounds. With the aim of unraveling some of these mysteries in a playful and visual way, we have created a tool that helps us abstract complex concepts. It also helps us understand a bit more about the dynamics of the Apollo missions and the collection of seismic data by Apollo PSE seismographs. The project is a 3D model of the moon that can be used dynamically, where a timeline shows from the first landing in 1969 to 1977. Another approach would be to show all points at once, conveying the idea of scale ( impact ) and location of each seismic event, both shallow and deep. Operation of the system: Yellow bars: Display earthquakes and their magnitudes. There is an option that shows only the magnitude and another that shows only the depth. White bars: Display earthquake events and the depth at which they occurred.
 
@@ -37,8 +39,6 @@ EASEP - Early Apollo Surface Experiments Package
 
 USE OF ARTIFICIAL INTELLIGENCE
 N/A
-
-
 
 
 
