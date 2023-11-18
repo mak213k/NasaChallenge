@@ -12,7 +12,7 @@ https://www.spaceappschallenge.org/2023/find-a-team/namazu/
 spaceappschallenge citation.
 
 
-Ptoject name: PROJECT NAMAZU
+Project name: PROJECT NAMAZU
 HIGH-LEVEL SUMMARY
 Astronomy is a subject that even today lacks tools to share knowledge with the public of all ages and backgrounds. With the aim of unraveling some of these mysteries in a playful and visual way, we have created a tool that helps us abstract complex concepts. It also helps us understand a bit more about the dynamics of the Apollo missions and the collection of seismic data by Apollo PSE seismographs. The project is a 3D model of the moon that can be used dynamically, where a timeline shows from the first landing in 1969 to 1977. Another approach would be to show all points at once, conveying the idea of scale ( impact ) and location of each seismic event, both shallow and deep. Operation of the system: Yellow bars: Display earthquakes and their magnitudes. There is an option that shows only the magnitude and another that shows only the depth. White bars: Display earthquake events and the depth at which they occurred.
 
@@ -20,11 +20,16 @@ Astronomy is a subject that even today lacks tools to share knowledge with the p
 PROJECT DEMO
 https://www.loom.com/share/6fddafdd6b2d4cf4afb0bcae1eb5574d?sid=c88d1e4e-ee12-4ed6-a858-96807d31cead
 
+
+
 FINAL PROJECT
+
 http://maoe.com.br/nasa/
 
 
+
 PROJECT DETAILS
+
 Astronomy is a subject that even today lacks tools to share knowledge with the public of all ages and backgrounds. With the aim of unraveling some of these mysteries in a playful and visual way, we have created a tool that helps us abstract complex concepts. It also helps us understand a bit more about the dynamics of the Apollo missions and the collection of seismic data by Apollo PSE seismographs. The project is a 3D model of the moon that can be used dynamically, where a timeline shows from the first landing in 1969 to 1977. Another approach would be to show all points at once, conveying the idea of scale ( impact ) and location of each seismic event, both shallow and deep. Operation of the system: Yellow bars: Display earthquakes and their magnitudes. There is an option that shows only the magnitude and another that shows only the depth. White bars: Display earthquake events and the depth at which they occurred.
 
 Unlocking Lunar Secrets: The Moon has captivated human imagination for centuries, but it is only in recent decades that we have begun to delve into its scientific intricacies. The seismic instruments left by Apollo astronauts provide a unique opportunity to study moonquakes, shedding light on the internal structure of the Moon and the tectonic activity of our satellite. By creating an app that visualizes this seismic data in a comprehensive and user-friendly manner, we open doors for both scientists and the general public to explore and comprehend the dynamic nature of our lunar companion.
